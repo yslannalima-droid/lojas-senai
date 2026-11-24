@@ -1,0 +1,62 @@
+#lojasenai{ 
+    background-color: rgb(0, 89, 255);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    width: 1360px;
+    height: 80px;
+    
+
+}
+
+
+#button{
+
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -50px;
+    gap: 12px;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+ #produto1{ 
+    display: flex;
+ justify-content: center;
+ position:relative;
+ top: -100;
+
+ }
+ #produto2{ 
+ display: flex;
+ justify-content: center;
+ position:relative;
+ top: -100;
+
+ }
+ #produto3{ 
+    display: flex;
+ justify-content: center;
+ position:relative;
+ top: -100;
+
+ }
+ #produto4{ 
+    display: flex;
+ justify-content: center;
+ position:relative;
+ top: -300;
+
+ }
+ 
+
+
+  
+
+
+ 
+
+
+
+
+
